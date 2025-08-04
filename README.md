@@ -9,10 +9,6 @@ This project allows users to view clinic services, book appointments online, and
 
 ---
 
-## 🚀 Live Demo
-
-🔗 [Click here to view the project](http://127.0.0.1:5500/index.html)
-
 ## ✨ Features
 
 * ✅ **Responsive Design** (Works on all devices)
