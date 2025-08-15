@@ -14,6 +14,7 @@ This project allows users to view clinic services, book appointments online, and
 * ✅ **Responsive Design** (Works on all devices)
 * ✅ **Appointment Booking Form**
 * ✅ **Attractive Hero Section with CTA Button**
+* ✅ **Fetch and display users from a **public API** (`JSONPlaceholder`)
 * ✅ **Service Cards with Hover Animations**
 * ✅ **Social Media Links in Footer**
 * ✅ **Smooth Transitions and Modern UI**
@@ -25,6 +26,7 @@ This project allows users to view clinic services, book appointments online, and
 * **HTML5** – Semantic and structured markup
 * **CSS3** – Styling, Flexbox, Grid, Media Queries
 * **Animations & Transitions** – Smooth hover and fade effects
+*  **JavaScript (ES6)**
 
 ---
 
@@ -34,8 +36,19 @@ This project allows users to view clinic services, book appointments online, and
 📁 HealthyLife-Landing-Page
  ├── index.html       # Main landing page
  ├── style.css        # Stylesheet for the project
+ ├── script.js        # DynamicContent #APIIntegration #Interactivity
 
 ```
+📡API Used
+
+JSONPlaceholder – Free dummy API for testing and prototyping.
+
+🎯 Usage
+
+Click on Reload Users → Fetches patient/user data from the API.
+Fill out the Appointment Form → (Frontend demo only, not connected to backend).
+Explore different sections → Home, Services, Contact.
+
 ## ⚡ How to Run Locally
 1. Open the folder in **VS Code** (or any code editor).
 2. Install the **Live Server** extension (if not installed).
